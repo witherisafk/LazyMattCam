@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LazyMattCam</name>
+    <directory>lazymattcam</directory>
+    <id>3828789219</id>
+    <description>A silly mod that adds LazyMattMan, who reacts to things that Isaac does, to the game. This mod was made to showcase the capabilities of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3828788794]FaceCam Mod![/url]!
+
+Requires FaceCam Mod and ReactionAPI to function correctly; regardless, your game should be able to run without issue if either mod is not enabled.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Sound Effects"/>
+</metadata>

@@ -1,0 +1,23 @@
+<sounds root="sfx/lazymattcam/">
+	<sound name="intro.wav">
+		<sample weight="1" path="intro.wav"/>
+	</sound>
+	<sound name="scream.wav">
+		<sample weight="1" path="scream.wav"/>
+	</sound>
+	<sound name="scream_1.wav">
+		<sample weight="1" path="scream_1.wav"/>
+	</sound>
+	<sound name="scream_2.wav">
+		<sample weight="1" path="scream_2.wav"/>
+	</sound>
+	<sound name="scream_3.wav">
+		<sample weight="1" path="scream_3.wav"/>
+	</sound>
+	<sound name="exclaim.wav">
+		<sample weight="1" path="exclaim.wav"/>
+	</sound>
+	<sound name="denial.wav">
+		<sample weight="1" path="denial.wav"/>
+	</sound>
+</sounds>
